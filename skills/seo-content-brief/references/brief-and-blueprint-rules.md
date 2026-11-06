@@ -1,0 +1,13 @@
+# Brief and Blueprint Rules
+
+Use one row per purposeful section. Give each row a stable ID, working purpose, reader question or action, key point, permitted claim IDs and source IDs, relevant qualification, attribution or disclosure, asset or format if useful, boundary and observable completion test. Include applicable claim controls in every row where the claim is used. Label purely editorial instructions as such. Retain IDs through revisions where the section purpose remains the same.
+
+Put a useful orientation or practical answer early. Place proof near the claim, and present limitations before they affect a decision. Keep the CTA after the reader has enough information for that action. Match format to the task. Prefer comparable tables with units and criteria, steps for ordered actions, and visuals or interactions only when they clarify something specific. Keep essential meaning available in text. Record asset provenance, permission, placement, accessible alternative and a truthful fallback when relevant.
+
+Separate topics owned here, briefly answered with an approved route elsewhere, and excluded. Name the relevant destination and its distinct job. Preserve useful existing content, approved consolidation material and links within scope. Use natural anchor concepts and verified CTA destinations and terms. Record prerequisites and realistic next steps supported by evidence. Keep final CTA copy and implementation outside the brief.
+
+Treat the primary query family as a reader-task boundary. Use meaningful variants, entities and criteria when they improve clarity or accuracy. Reject density, exact-match targets, entity counts, optimisation scores and competitor-derived word counts. Record a length constraint only when there is an actual format, editorial or production reason. Use an FAQ only for an evidenced reader question that still needs an answer.
+
+Translate approved voice rules into page-level instructions for market spelling, point of view, tone, technical depth, terminology and CTA restraint. Preserve attribution and authorship boundaries. Omit invented experience, formulaic filler, em dashes and AI detector thresholds. Use working title or heading directions only where useful. Omit publishable prose, final metadata, schema and release steps.
+
+Set acceptance checks a reviewer can observe in the future draft. Tie them to the task, the differentiator, required proof, qualifications, disclosure, neighbouring page ownership, voice and the verified next step. Identify which changes require B3 or upstream review again. Use a new brief revision for material changes.
