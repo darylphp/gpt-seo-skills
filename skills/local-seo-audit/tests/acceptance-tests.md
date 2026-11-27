@@ -53,3 +53,7 @@ Use the synthetic [ready input](../examples/ready-input.md) as the baseline unle
 Documentation: 22 Google primary pages retrieved for a targeted listed-use review on 27 November 2026. OpenAI and Anthropic setup documentation reviewed separately. See the source register.
 
 Package validation and direct-file behaviour results are recorded separately below after execution. No installation, discovery or automatic activation is claimed. Examples are demonstrations, not test runs. The earlier Claude draft's 13 November package results do not test this adaptation.
+
+## Executed checks, 27 November 2026
+
+Package validation passed. Three selected direct-file GPT scenarios were run in two rounds: round 1 had two passes and one priority-classification failure; round 2 passed all three scenarios after a rule clarification. See the [inputs, runtime hashes, raw outputs and scoring record](runs/2026-11-27/review.md). The full 26-case suite and installed-skill activation have not been completed. No Claude behaviour test is claimed.

@@ -6,6 +6,8 @@ IDs in brackets refer to the [source register](source-register.md). Text marked 
 
 These are operating priorities, not Google severity labels. Adjust for business impact and dependencies.
 
+Treat a live main contact number retained from a former agency, with business control and routing undocumented, as an **Urgent verification/control gap**. Urgency concerns customer-contact exposure; it does not establish misrouting, lost ownership or a profile incident. Preserve the working path while verifying rights and routing. Use the incident status only when harmful false contact, unauthorised control or another defined incident is actually evidenced. A maintenance agreement covering a conditional number restoration does not remove this verification priority.
+
 | Priority | Examples | What the report says |
 | --- | --- | --- |
 | Urgent | Unauthorised access, a suspended profile, a false closure, a phone, address or contact route that misdirects customers or is outside the business's control, a broken main enquiry route | Name an owner now, preserve evidence, and correct or escalate within existing permission |

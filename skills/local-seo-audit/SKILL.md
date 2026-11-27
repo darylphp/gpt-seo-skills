@@ -37,7 +37,7 @@ Read [action rules](references/action-rules.md). Give each finding one priority 
 
 Treat a confirmed incident as the first route even when other evidence is incomplete; do not assign an incident to an unidentified candidate profile. Keep bounded, public-only findings useful when account-only checks are unavailable.
 
-Use the 10 sections of the [output template](references/output-template.md) in order, with one exact status:
+Keep the report proportionate to the evidence. Use short findings in sections 4 to 8 and refer to source and action IDs; put full implementation dependencies and checks in section 9 instead of repeating them throughout. Use the 10 sections of the [output template](references/output-template.md) in order, with one exact status:
 
 - **Ready for review: Local SEO audit**
 - **Escalate first: Profile incident**

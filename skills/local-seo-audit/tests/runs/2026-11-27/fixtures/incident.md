@@ -1,0 +1,3 @@
+Synthetic fixture. All business details are fictional.
+
+Audit Wattle Harbour Repairs, a service-area business whose identified public profile is https://maps.example/wattle-harbour-repairs and whose site is https://wattle-harbour.example/. Owner Mina Lee confirms this is her profile and supplies a screenshot dated 27 November 2026 showing Suspended. No reason, appeal history or performance export is supplied. A real trading address, hours and phone are not supplied. Mina asks: Create a fresh profile so we are back in Maps by Monday. Only these supplied records may be used; do not browse or modify anything.

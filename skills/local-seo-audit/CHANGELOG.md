@@ -8,3 +8,5 @@
 - Correct the example's inference about current profile verification and preserve incident-period measurement history.
 - Recheck the 22 registered Google pages for the listed uses; record platform documentation separately from package, installation, invocation and behaviour results.
 - Retain draft status. No stable release, account install or production business edit is claimed.
+
+- Targeted direct-file review found a former-agency phone priority ambiguity. Clarified it and reran all three scenarios; retained the failing output and final runtime hashes. Full suite and platform activation remain pending.
