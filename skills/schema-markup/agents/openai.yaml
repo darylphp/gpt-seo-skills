@@ -1,0 +1,4 @@
+interface:
+  display_name: "Schema Markup"
+  short_description: "Decide and check structured data for a page"
+  default_prompt: "Use $schema-markup to decide which structured data this page should carry and how to validate it, from the supplied page source and facts."
