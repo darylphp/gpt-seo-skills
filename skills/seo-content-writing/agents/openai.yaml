@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Content Writing"
+  short_description: "Draft a page from an approved brief and dossier"
+  default_prompt: "Use $seo-content-writing to draft this page from the approved brief and evidence dossier, keeping every claim within the dossier."
