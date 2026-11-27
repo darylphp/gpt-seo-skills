@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Content QA"
+  short_description: "QA one page revision in three gated passes"
+  default_prompt: "Use $seo-content-qa to check this exact page revision against its approved brief and evidence, starting at the first pass its approvals allow."
