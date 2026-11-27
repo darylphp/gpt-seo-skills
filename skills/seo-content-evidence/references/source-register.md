@@ -1,0 +1,26 @@
+# Source Register
+
+The rules in this skill paraphrase the Google pages below. "Opened 27 Nov 2026" means the page was fetched on that date (Asia/Singapore) and the passages this skill uses were read. None of these checks inspected an account, a website or a business. Recheck the relevant page before a consequential decision, and review the whole register at least quarterly.
+
+IDs C01 to C04, C11 and C13 keep the source IDs in the Content Evidence, Briefing and Publishing QA playbook v1.2 (File 12), so each rule can be traced back. C16 and C17 are additions for this skill. File 12's C05 to C10, C12, C14 and C15 cover titles, snippets, images, dates, links, URL Inspection, video and technical requirements, which belong to briefing and publishing work, so they are not used here. Claim IDs in a dossier use the separate `CL-` prefix.
+
+| ID | Source | Used for | Displayed update | Check |
+| --- | --- | --- | --- | --- |
+| C01 | [Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) | Original information and analysis; clear sourcing and evidence of expertise; easily verified factual errors; E-E-A-T is not itself a ranking factor and trust matters most; accurate bylines and no fabricated creator profiles; showing how testing was done; disclosure of automation | 5 Oct 2026 | Opened 27 Nov 2026 |
+| C02 | [Google Search's guidance on using generative AI content on your website](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content) | Accuracy, quality and relevance; manual fact-checking and review of all AI-generated content before publishing, including titles, meta descriptions, structured data and image alt text; information on how content was created; rater guidelines do not directly influence ranking | 1 Oct 2026 | Opened 27 Nov 2026 |
+| C03 | [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies) | Scaled content abuse, including generating many pages without adding value and stitching content together | 23 Nov 2026 | Opened 27 Nov 2026. Displayed update is later than the playbook's check; the scaled content passages used here are consistent with the playbook rule |
+| C04 | [Write high quality reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews) | Evidence of your own experience, quantitative measurements, benefits and drawbacks from original research, first-hand evidence for "best" claims, quality and originality rather than length | 10 Dec 2025 | Opened 27 Nov 2026 |
+| C11 | [General structured data guidelines](https://developers.google.com/search/docs/appearance/structured-data/sd-policies) | Markup is a true representation of the page; no marking up content readers cannot see, or misleading content such as fake reviews; no guarantee of display | 10 Jul 2026 | Opened 27 Nov 2026 |
+| C13 | [Optimizing your website for generative AI features on Google Search](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) | Unique, non-commodity content; a first-hand review as the example of a unique perspective; not recycling what others have said | 10 Jul 2026 | Opened 27 Nov 2026 |
+| C16 | [Google Search's reviews system and your website](https://developers.google.com/search/updates/reviews-update) | The reviews system aims to reward insightful analysis and original research by experts or enthusiasts; it does not evaluate third-party user reviews | 10 Dec 2025 | Opened 27 Nov 2026 |
+| C17 | [Latest Google Search documentation updates](https://developers.google.com/search/updates) | Changes to the pages above since the playbook's checks | Latest entry 24 Nov 2026 | Opened 27 Nov 2026 for entries from 1 Oct to 24 Nov 2026 |
+
+## Differences from the playbook
+
+- **C02:** the playbook's summary already records manual fact-checking, including metadata, alt text and structured data. The current page says it is critical to fact-check and review all AI-generated content for accuracy and trustworthiness before publishing. The skill uses the current wording. C17 dates this update to 1 Oct 2026.
+- **C03:** the displayed update moved from 28 Aug 2026 in the playbook to 23 Nov 2026. C17 records that the 23 Nov change added a back-button hijacking FAQ, which this skill does not use.
+- **C13:** the playbook summarises this page as useful content and foundational SEO, with no special requirements for generative AI features. The skill also uses its "non-commodity content" section, which gives a first-hand review as its example, for the rule that source-led pages must not imply first-hand work.
+- **C16:** not in the playbook's register. Added because it separates a business's own review content from third-party user reviews, which matters when testimonials are offered as evidence.
+- **C17:** between 1 Oct and 24 Nov 2026, no entry changed C01, C04, C11, C13 or C16. The 24 Nov entries added generative AI controls and attribution pages and a ranking section, which this skill does not use.
+
+When a page changes, record the ID, the section, the check date, what changed and which reference file it affects. Update the reference file first, then this register.

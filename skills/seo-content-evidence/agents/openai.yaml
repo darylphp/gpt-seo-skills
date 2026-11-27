@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Content Evidence"
+  short_description: "Build a page's claims and evidence dossier"
+  default_prompt: "Use $seo-content-evidence to build the evidence and claims dossier for this page from the supplied page decision and sources."
