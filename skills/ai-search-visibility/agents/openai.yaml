@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Search Visibility"
+  short_description: "Check AI search eligibility, controls and measurement"
+  default_prompt: "Use $ai-search-visibility to check this site's eligibility, AI controls and measurement for Google AI Overviews and AI Mode, and list the actions."
